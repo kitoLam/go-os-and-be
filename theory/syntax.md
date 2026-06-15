@@ -1,4 +1,4 @@
-# Go Syntax & Library Reference — DARE-ka
+# Go Syntax & Library Reference 
 
 Tài liệu tra cứu nhanh: cú pháp Go cốt lõi + mọi thư viện dùng trong Submission Service (API) và Judger Worker (OS). Mỗi mục có snippet áp dụng được ngay và ghi chú dùng vào đâu trong dự án.
 
